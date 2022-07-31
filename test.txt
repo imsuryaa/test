@@ -1,3 +1,7 @@
 Hello World..!
 
 Welcome to git tutorial.
+
+
+web dev tools & technologies
+HTML, CSS, Javascript, Bootstrap, Python, Django, PostgreSQL
